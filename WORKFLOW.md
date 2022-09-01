@@ -29,16 +29,3 @@ Con Visual Studio y sus herramientas para Docker, esta tarea requiere solo unos 
 También puede habilitar la compatibilidad con Docker en un proyecto de aplicación web ASP.NET Core existente haciendo clic con el botón derecho en el proyecto en el Explorador de soluciones y seleccionando Agregar > Compatibilidad con Docker...
 
 ![3](https://user-images.githubusercontent.com/101933399/187959797-435ab97f-936f-494b-a530-330e84192d61.png)
-
-Paso 3. Cree sus imágenes Docker personalizadas e incruste su aplicación o servicio en ellas.
-
-Para cada servicio de su aplicación, debe crear una imagen relacionada. Si su aplicación se compone de un solo servicio o aplicación web, solo necesita una sola imagen.
-
-Tenga en cuenta que las imágenes de Docker se crean automáticamente en Visual Studio. Los siguientes pasos solo son necesarios para el flujo de trabajo del editor/CLI y se explican para aclarar lo que sucede debajo.
-
-Usted, como desarrollador, necesita desarrollar y probar localmente hasta que envíe una característica completa o cambie su sistema de control de fuente. Esto significa que debe crear las imágenes de Docker e implementar contenedores en un host de Docker local (VM de Windows o Linux) y ejecutar, probar y depurar en esos contenedores locales.
-
-Para crear una imagen personalizada en su entorno local mediante la CLI de Docker y su Dockerfile, puede usar el comando de compilación de docker.
-
-![5](https://user-images.githubusercontent.com/101933399/187960589-3c887cbf-7121-4ff9-ba1e-f53d06e44f4c.png)
-
