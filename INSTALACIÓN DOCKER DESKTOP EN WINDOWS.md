@@ -24,4 +24,4 @@ Descargue e instale el paquete de actualización del kernel de Linux .
 	está instalado. Esto se debe a que todas las cuentas de Windows usan la misma máquina virtual para crear y ejecutar contenedores. 
 	No es posible compartir contenedores e imágenes entre cuentas de usuario cuando se usa el backend Docker Desktop WSL 2.
 
-
+ 
