@@ -86,4 +86,3 @@ CREAR CUENTA DE DOCKER DESDE LA PAGINA Y SINCRONIZACIÓN EN EL PROGRAMA DESKTOP.
 
 	Y listo, ya tenemos Docker en nuestro equipo y con acceso para los Docker Hubs.
 ![13](https://user-images.githubusercontent.com/101933399/188251967-8d8c2a30-38a7-4156-9049-6c4c171a3996.jpg)
-
